@@ -7,7 +7,7 @@ Nowadays knowledge has become the most important resource for the economy. Yet t
 * Super fast, responsive and reactive
 * Developed with the latest technologies
 * Simple editor with Markdown support
-* Tree editor to structure your companys assets
+* Tree editor to organise your knowledge assets
 * Public and private knowledge articles
 * Powerfull search
 * NoDB, all your data is stored in files
