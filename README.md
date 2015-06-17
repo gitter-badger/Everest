@@ -1,4 +1,4 @@
-# Everst - Simple Knowledge Management Tool
+# Everst - Simple Knowledge Management Tool ![](https://travis-ci.org/BitSherpa/Everest.svg)
 
 Nowadays knowledge has become the most important resource for the economy. Yet there haven't been any useful system to make the recording of knowledge a pleasent process. This is where Everest comes in place. Everest is a progressive yet simple tool to manage your companys knowledge along a public audience and internal departments. 
 
