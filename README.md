@@ -1,5 +1,7 @@
 # Everst - Simple Knowledge Management Tool ![](https://travis-ci.org/BitSherpa/Everest.svg)
 
+[![Join the chat at https://gitter.im/BitSherpa/Everest](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/BitSherpa/Everest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Nowadays knowledge has become the most important resource for the economy. Yet there haven't been any useful system to make the recording of knowledge a pleasent process. This is where Everest comes in place. Everest is a progressive yet simple tool to manage your companys knowledge along a public audience and internal departments. 
 
 # Features
